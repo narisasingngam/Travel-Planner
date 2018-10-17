@@ -11,9 +11,12 @@ Travel planner is a website that user can create a planner for their own trip. I
 
 # Iteration Plan
 
-[Task Management][task]
+-[Task Management][task]
 
-[Task Board][board]
+-[Task Board][board]
+
+
+### [Issue Tracker](https://github.com/narisasingngam/Travel-Planner/issues)
 
 [board]:https://trello.com/b/wfRyjm44/work-plan/calendar/2018/10
 [task]:https://trello.com/b/wfRyjm44/work-plan
