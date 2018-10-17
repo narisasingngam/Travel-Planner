@@ -13,4 +13,7 @@ Travel planner is a website that user can create a planner for their own trip. I
 
 [Task Management][task]
 
+[Task Board][board]
+
+[board]:https://trello.com/b/wfRyjm44/work-plan/calendar/2018/10
 [task]:https://trello.com/b/wfRyjm44/work-plan
